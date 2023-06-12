@@ -21,7 +21,7 @@ Docker Hub
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) - A linguagem usada
+* [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) - Versão utilizada
 
 ## ✒️ Autores
 
