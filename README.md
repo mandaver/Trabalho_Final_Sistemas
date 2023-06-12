@@ -34,6 +34,6 @@ Este projeto está sob a licença (MIT License) - veja o arquivo [LICENSE.md](ht
 
 ## 🎁 Expressões de gratidão
 
-* Um agradecimento publicamente ao Professor **Prof. Dr. Leandro N. Balico**;
+* Um agradecimento publicamente ao Professor **Prof. Dr. Leandro N. Balico**.
 
 ---
